@@ -26,4 +26,5 @@ DBZZNappa
 GeneralNappa
 no_softbank
 asshuku
-
+Abridged
+Nappajustsaiyan
