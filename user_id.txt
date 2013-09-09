@@ -26,4 +26,5 @@ DBZZNappa
 GeneralNappa
 no_softbank
 asshuku
-
+watamism
+watanade_miki
