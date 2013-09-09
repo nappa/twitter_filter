@@ -22,3 +22,5 @@ NONUKES_MH
 imaitko
 monjukun
 ihayato
+DBZZNappa
+GeneralNappa
