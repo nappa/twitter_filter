@@ -171,3 +171,5 @@ J-CAST
 shindanmaker.com
 イマココ!
 #RunKeeper
+SAN値
+半沢直樹
