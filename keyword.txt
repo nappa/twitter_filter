@@ -172,3 +172,5 @@ shindanmaker.com
 #RunKeeper
 SAN値
 半沢直樹
+発言小町
+Hagex-day info
